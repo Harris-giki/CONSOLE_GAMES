@@ -1,5 +1,5 @@
 //CS PROJECT BY:
-//HARIS(2023428)
+//HARIS
 
 #include <iostream>
 #include <cstdlib> //calling for the random function
