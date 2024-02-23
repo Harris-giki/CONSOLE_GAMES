@@ -38,7 +38,7 @@ The code uses functions like toupper() to convert characters to uppercase for ca
 The clearScreen() function uses platform-specific commands (system("cls") for Windows, system("clear") for other systems) to clear the console screen.
 <br>
 <br>
-    			     ### Instructions for User ###
+### INSTRUCTIONS FOR USERS ###
 <br>
 1. Run the program <br>
 2. The game will display a set of dashes representing the letters of a randomly selected country.<br>
