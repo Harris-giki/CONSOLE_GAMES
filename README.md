@@ -48,7 +48,7 @@ The clearScreen() function uses platform-specific commands (system("cls") for Wi
 6. You win if you correctly guess the entire country within 11 incorrect attempts.<br>
 7. You lose if you reach the maximum number of incorrect guesses.<br>
 8. After the game ends, you can choose to play again by entering '1' when prompted.<br>
-9. However, the game is designed that if one a character for guess is chosen it cannot be chosen again.
+9. However, the game is designed that if one a character as guess is chosen, it cannot be chosen again.
 <br>
 <br>
 Have fun playing the Country Guessing Game!
